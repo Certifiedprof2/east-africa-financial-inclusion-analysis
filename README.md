@@ -225,15 +225,15 @@ Across the dataset, only **14.08%** of respondents own a bank account, while **8
 
 **Calculation Code:**
 
-![Overall Bank Account Access Calculation Code](visuals/visual-1i.png)
+![Overall Bank Account Access Calculation Code](visuals/visual%201i.png)
 
 **Calculation Output:**
 
-![Overall Bank Account Access Calculation Output](visuals/visual-1ii.png)
+![Overall Bank Account Access Calculation Output](visuals/visual%201ii.png)
 
 **Visualization Code:**
 
-![Overall Bank Account Access Visualization Code](visuals/visual-1iii.png)
+![Overall Bank Account Access Visualization Code](visuals/visual%201iii.png)
 
 
 ### 2. Bank Account Ownership by Country
