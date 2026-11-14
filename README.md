@@ -1,7 +1,7 @@
-# east-africa-financial-inclusion-analysis
+# East Africa Financial Inclusion Analysis
 Exploratory data analysis of socio-economic factors associated with bank account ownership across four East African countries.
 
-# Socio-Economic Drivers of Financial Inclusion in East Africa
+## Socio-Economic Drivers of Financial Inclusion in East Africa
 
 **A Python data analysis project by Ismaila Ainoko Aminu**
 
