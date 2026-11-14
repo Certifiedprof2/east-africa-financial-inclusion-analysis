@@ -214,30 +214,80 @@ One of the main lessons from this analysis is that financial inclusion should no
 
 As I continue developing my skills in Python and data analytics, this project has helped me practise turning raw survey data into findings that can support further investigation and decision-making.
 
-## 11. Repository Contents
 
-A suggested repository structure is:
+## Exploratory Data Analysis & Visualizations
 
-```text
-east-africa-financial-inclusion-analysis/
-│
-├── README.md
-├── East Africa Financial Inclusion Analysis.ipynb
-├── East_Africa_Financial_Inclusion_Methodology.docx
-├── data/
-│   └── East_Africa_Financial_Inclusion_Survey.csv
-└── visuals/
-    ├── overall-bank-account-access.png
-    ├── ownership-by-country.png
-    ├── ownership-by-location.png
-    ├── ownership-by-cellphone-access.png
-    ├── ownership-by-education.png
-    ├── ownership-by-job-type.png
-    ├── ownership-by-gender.png
-    └── ownership-by-age-group.png
----
+This section presents the key findings from the analysis, including the Python calculations, outputs, and visualizations used to investigate financial inclusion across East Africa.
 
-**Project Team**
+### 1. Overall Bank Account Access in East Africa
+
+Across the dataset, only **14.08%** of respondents own a bank account, while **85.92%** remain unbanked. This highlights the significant financial inclusion gap across the four countries.
+
+**Calculation Code:**
+
+![Overall Bank Account Access Calculation Code](visuals/visual-1i.png)
+
+**Calculation Output:**
+
+![Overall Bank Account Access Calculation Output](visuals/visual-1ii.png)
+
+**Visualization Code:**
+
+![Overall Bank Account Access Visualization Code](visuals/visual-1iii.png)
+
+
+### 2. Bank Account Ownership by Country
+
+Kenya leads in bank account ownership at **25.07%**, followed by Rwanda (**11.48%**), Tanzania (**9.17%**), and Uganda (**8.61%**). This reveals considerable differences in financial inclusion across the countries studied.
+
+**Calculation Code:**
+
+![Bank Account Ownership by Country Calculation Code](visuals/visual-2i.png)
+
+**Calculation Output:**
+
+![Bank Account Ownership by Country Calculation Output](visuals/visual-2ii.png)
+
+**Visualization Code:**
+
+![Bank Account Ownership by Country Visualization Code](visuals/visual-2iii.png)
+
+### 3. Residential Location and Cell Phone Access
+
+Respondents in **urban areas** have higher bank account ownership (**17.87%**) than those in rural areas (**11.65%**).
+
+Cell phone access also shows a strong relationship with financial inclusion: **18.38%** of respondents with phone access own a bank account, compared with just **1.71%** of those without phone access.
+
+**Calculation Code:**
+
+![Location and Cell Phone Access Calculation Code](visuals/visual-3i.png)
+
+**Calculation Output:**
+
+![Location and Cell Phone Access Calculation Output](visuals/visual-3ii.png)
+
+**Visualization Code:**
+
+![Residential Location and Cell Phone Access Visualization Code](visuals/visual-3iii.png)
+
+### 4. Socioeconomic and Demographic Drivers
+
+The analysis shows a relationship between bank account ownership, education, and employment.
+
+For example, **77.52%** of government-employed respondents and **57.04%** of respondents with vocational or specialised training own a bank account. In comparison, only **3.90%** of respondents with no formal education own one.
+
+**Calculation Code:**
+
+![Socioeconomic and Demographic Drivers Calculation Code](visuals/visual-4i.png)
+
+**Calculation Output:**
+
+![Socioeconomic and Demographic Drivers Calculation Output](visuals/visual-4ii.png)
+
+**Visualization Code:**
+
+![Socioeconomic and Demographic Drivers Visualization Code](visuals/visual-4iii.png)
+
 
 - **Analyst:** Ismaila Ainoko Aminu
 - **Project buddy:** Ayomide Eniafe Emmanuel
