@@ -242,15 +242,15 @@ Kenya leads in bank account ownership at **25.07%**, followed by Rwanda (**11.48
 
 **Calculation Code:**
 
-![Bank Account Ownership by Country Calculation Code](visuals/visual-2i.png)
+![Bank Account Ownership by Country Calculation Code](visuals/visual%202i.png)
 
 **Calculation Output:**
 
-![Bank Account Ownership by Country Calculation Output](visuals/visual-2ii.png)
+![Bank Account Ownership by Country Calculation Output](visuals/visual%202ii.png)
 
 **Visualization Code:**
 
-![Bank Account Ownership by Country Visualization Code](visuals/visual-2iii.png)
+![Bank Account Ownership by Country Visualization Code](visuals/visual%202iii.png)
 
 ### 3. Residential Location and Cell Phone Access
 
