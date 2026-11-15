@@ -260,7 +260,7 @@ Cell phone access also shows a strong relationship with financial inclusion: **1
 
 **Calculation Code:**
 
-![Location and Cell Phone Access Calculation Code](visuals/visual-3i.png)
+![Location and Cell Phone Access Calculation Code](visuals/visual%203i.png)
 
 **Calculation Output:**
 
