@@ -266,28 +266,6 @@ Cell phone access also shows a strong relationship with financial inclusion: **1
 
 ![Location and Cell Phone Access Calculation Output](visuals/visual%203ii.png)
 
-**Visualization Code:**
-
-![Residential Location and Cell Phone Access Visualization Code](visuals/visual%203iii.png)
-
-### 4. Socioeconomic and Demographic Drivers
-
-The analysis shows a relationship between bank account ownership, education, and employment.
-
-For example, **77.52%** of government-employed respondents and **57.04%** of respondents with vocational or specialised training own a bank account. In comparison, only **3.90%** of respondents with no formal education own one.
-
-**Calculation Code:**
-
-![Socioeconomic and Demographic Drivers Calculation Code](visuals/visual%204i.png)
-
-**Calculation Output:**
-
-![Socioeconomic and Demographic Drivers Calculation Output](visuals/visual%204ii.png)
-
-**Visualization Code:**
-
-![Socioeconomic and Demographic Drivers Visualization Code](visuals/visual%204iii.png)
-
 
 - **Analyst:** Ismaila Ainoko Aminu
 - **Project buddy:** Ayomide Eniafe Emmanuel
